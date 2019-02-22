@@ -2,8 +2,14 @@
 
 # Applying Data Science - Business Case Studies using SAS
 
-Companion and Download Site for the SAS Press Book "Applying Data Science Business Case Studies Using SAS"
-Gerhard Svolba
+Applying Data Science Methods to Real Life Business Use Cases. Companion and Download Site for the [SAS Press Book](https://www.sas.com/store/books/categories/usage-and-reference/applying-data-science-business-case-studies-using-sas-/prodBK_63165_en.html?storeCode=SAS_US)  "Applying Data Science - Business Case Studies using SAS" by Gerhard Svolba. [--> amazon.com](https://www.amazon.com/Applying-Data-Science-Business-Studies-ebook/dp/B06Y5QY872/ref=sr_1_1?qid=1550842820)
+
+* [Getting More Insight into Your Forecast Errors with the GLMSELECT and
+QUANTSELECT Procedures](https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2018/1673-2018.pdf)
+* [Other books](https://support.sas.com/en/books/authors/gerhard-svolba.html) from Gerhard Svolba at SAS Press.
+* [Data Preparation for Data Science Using SAS](https://github.com/gerhard1050/Data-Preparation-for-Data-Science-Using-SAS)
+* [Data Quality for Data Science Using SAS](https://github.com/gerhard1050/Data-Quality-for-Data-Science-Using-SAS)
+* [Top 10 bestselling titles at SAS Global Forum 2018](https://blogs.sas.com/content/sastraining/2018/05/08/top-10-bestselling-titles-at-sas-global-forum-2018/)
 
 ## Overview
 This is the new SAS Press book of Gerhard Svolba. It contains 8 case studies in 28 practical chapters with business explainations, methodological considerations and lots of SAS Code.
