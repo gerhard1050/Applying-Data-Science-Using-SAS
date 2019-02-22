@@ -1,4 +1,4 @@
-<img src='cover.jpg' align='right' />
+<img src='DSCS_Cover_klein.jpg' align='right' />
 
 # Applying Data Science - Business Case Studies using SAS
 
