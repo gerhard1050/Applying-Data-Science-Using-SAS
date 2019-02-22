@@ -1,5 +1,4 @@
 <img src='DSCS_Cover_klein.jpg' align='right' height="300">
-
 # Applying Data Science - Business Case Studies using SAS
 
 Applying Data Science Methods to Real Life Business Use Cases. Companion and Download Site for the [SAS Press Book](https://www.sas.com/store/books/categories/usage-and-reference/applying-data-science-business-case-studies-using-sas-/prodBK_63165_en.html?storeCode=SAS_US)  "Applying Data Science - Business Case Studies using SAS" by Gerhard Svolba. [--> amazon.com](https://www.amazon.com/Applying-Data-Science-Business-Studies-ebook/dp/B06Y5QY872/ref=sr_1_1?qid=1550842820)
