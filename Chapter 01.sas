@@ -62,13 +62,13 @@ RUN;
 
 *** 1.7;
 
-PROC LIFETEST DATA=employees plots=(hazard(bandwidth=3 maxtime=120));
+PROC LIFETEST DATA=employees plots=(hazard(bandwidth=3)) maxtime=120;
  TIME Duration*Status(1);
 RUN;
 
 
 
-PROC LIFETEST DATA=employees plots=(hazard(bandwidth=3 maxtime=120));
+PROC LIFETEST DATA=employees plots=(hazard(bandwidth=3)) maxtime=120;
  TIME Duration*Status(1);
  where Department='SALES_ENGINEER';
 RUN;
