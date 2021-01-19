@@ -147,11 +147,11 @@
 						     if ProbTmp = 1 then PlayerPos[Player] = 1;   *** Go to Start;
 						else if ProbTmp = 2 then PlayerPos[Player] = 7;   *** Go to Sportwagen;
 						else if ProbTmp = 3 then PlayerPos[Player] = 14;  *** Go to Jail;
-						else if ProbTmp = 4 then PlayerPos[Player] = 16;  *** Go to Königsallee;
+						else if ProbTmp = 4 then PlayerPos[Player] = 16;  *** Go to KÃ¶nigsallee;
 						else if ProbTmp = 5 then PlayerPos[Player] = 32;  *** Go to Twerskaya;
 						else if ProbTmp = 6 then PlayerPos[Player] = 52;  *** Go to Fifth Avenue;
 						else if ProbTmp = 7 then do; *** 3 fields backward;
-						                  PlayerPos[Player] = 1 + mod(PlayerPos[Player] = -3+52-1, 52);
+						                  PlayerPos[Player] = 1 + mod(PlayerPos[Player] -3+52-1, 52);
 										end;
 						else if ProbTmp = 8 then do; *** Go to next Energy Plant;
 		                                  if  1 <= PlayerPos[Player] <= 10 or
