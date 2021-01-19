@@ -30,10 +30,10 @@ This book is written for a variety of different persona groups and profiles.
 
 ## Changes, Improvements and Typos in the printed version of the book
 
-* Page 54: The datastep at the beginning of chapter 3.5.2 should use variable  _T_ instead of variable TIME. Here is the correct version.
+* Page 54: The datastep at the beginning of chapter 3.5.2 should use variable _ _T_ _ instead of variable TIME. Here is the correct version.
 data employees_expanded;
  set employees;
- do _T_ = 1 to duration;
+  do _T_ = 1 to duration;
   if TIME NE duration then Event = 0;
   else Event = Resigned;
   output;
