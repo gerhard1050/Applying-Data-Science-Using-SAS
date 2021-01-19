@@ -29,6 +29,19 @@ This book is written for a variety of different persona groups and profiles.
 - [Table of Contents](https://www.sas.com/storefront/aux/en/spba/63165_toc.pdf)
 
 ## Changes, Improvements and Typos in the printed version of the book
+Please send any findings potential typos and necessary changes to the author. Email: sastools.by.gerhard@gmx.net
+Note that the downloadable code files from github already contain these changes.
+
+
+
+* Page 16 and 17: The PROC LIFETEST statement has the brackets around HAZARD and MAXTIME set in a wrong way.
+Here is the correct version for both PROC LIFETEST calls in section 1.7.2 and 1.7.3
+
+PROC LIFETEST DATA=employees plots=(hazard(bandwidth=3)) maxtime=120;
+
+Thanks to Nicole Fox for pointing this out!
+
+
 
 * Page 54: The datastep at the beginning of chapter 3.5.2 should use variable _ _T_ _ instead of variable TIME. Here is the correct version.
 
