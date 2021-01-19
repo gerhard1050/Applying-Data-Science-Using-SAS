@@ -27,3 +27,16 @@ This book is written for a variety of different persona groups and profiles.
 
 - [Book Excerpt](https://www.sas.com/storefront/aux/en/spba/63165_excerpt.pdf)
 - [Table of Contents](https://www.sas.com/storefront/aux/en/spba/63165_toc.pdf)
+
+## Changes, Improvements and Typos in the printed version of the book
+
+* Page 54: The datastep at the beginning of chapter 3.5.2 should use variable  _T_ instead of variable TIME. Here is the correct version.
+data employees_expanded;
+ set employees;
+ do _T_ = 1 to duration;
+  if TIME NE duration then Event = 0;
+  else Event = Resigned;
+  output;
+ end;
+run;
+
