@@ -30,6 +30,7 @@ This book is written for a variety of different persona groups and profiles.
 
 ## Changes, Improvements and Typos in the printed version of the book
 Please send any findings potential typos and necessary changes to the author. Email: sastools.by.gerhard@gmx.net
+
 Note that the downloadable code files from github already contain these changes.
 
 
@@ -39,7 +40,7 @@ Here is the correct version for both PROC LIFETEST calls in section 1.7.2 and 1.
 
 PROC LIFETEST DATA=employees plots=(hazard(bandwidth=3)) maxtime=120;
 
-Thanks to Nicole Fox for pointing this out!
+Thanks to __Nicole Fox__ for pointing this out!
 
 
 
