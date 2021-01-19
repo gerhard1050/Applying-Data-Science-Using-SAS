@@ -4,6 +4,19 @@
 
 Applying Data Science Methods to Real Life Business Use Cases. Companion and Download Site for the [SAS Press Book](https://www.sas.com/store/books/categories/usage-and-reference/applying-data-science-business-case-studies-using-sas-/prodBK_63165_en.html?storeCode=SAS_US)  "Applying Data Science - Business Case Studies using SAS" by Gerhard Svolba. [--> amazon.com](https://www.amazon.com/Applying-Data-Science-Business-Studies-ebook/dp/B06Y5QY872/ref=sr_1_1?qid=1550842820)
 
+* Presentations of all case studies (and more) have also been recorded in my Data Science Webinar on [Youtube](https://www.youtube.com/playlist?list=PLdMxv2SumIKs0A2cQLeXg1xb9OVE8e2Yq).
+* Contributions at SAS Communities on content from this book
+
+[Encoding of CLASS Variables in Regression Analysis - Better understand the ORDINAL encoding](https://communities.sas.com/t5/SAS-Communities-Library/Encoding-of-CLASS-Variables-in-Regression-Analysis-Better/ta-p/632923)
+
+[Display the hidden estimate for the reference category in EFFECT coding for better interpretability](https://communities.sas.com/t5/SAS-Communities-Library/Display-the-hidden-estimate-for-the-reference-category-in-EFFECT/ta-p/633865)
+
+[%CALC_REFERENCE_CATEGORY displays the "hidden" coefficient in EFFECT encoding for CLASS variables](https://communities.sas.com/t5/SAS-Communities-Library/CALC-REFERENCE-CATEGORY-displays-the-quot-hidden-quot/ta-p/633496)
+
+[Simulate timeseries data with a SAS DATA Step and SAS Functions](https://communities.sas.com/t5/SAS-Communities-Library/Simulate-timeseries-data-with-a-SAS-DATA-Step-and-SAS-Functions/ta-p/633852)
+
+[Automatically highlight data-driven events with reference lines in line-charts](https://communities.sas.com/t5/SAS-Communities-Library/Automatically-highlight-data-driven-events-with-reference-lines/ta-p/645944)
+
 * [Getting More Insight into Your Forecast Errors with the GLMSELECT and
 QUANTSELECT Procedures](https://www.sas.com/content/dam/SAS/support/en/sas-global-forum-proceedings/2018/1673-2018.pdf)
 * [Other books](https://support.sas.com/en/books/authors/gerhard-svolba.html) from Gerhard Svolba at SAS Press.
